@@ -22,7 +22,13 @@ public class Domashka_baza {
         System.out.println(String.valueOf(array));
         array[3] =  'h';
         System.out.println(String.valueOf(array));
+
+
+
+
+
     }
+
 
 
 
