@@ -10,6 +10,12 @@ public class Domashka_baza {
         hiWorld = hiWorld.trim();
         System.out.println(hiWorld+'\n'+hiWorld+'\n'+hiWorld);
 
+
+
+        float rost = 1.69f;
+        int ves = 64;
+        float imt = ves / (rost*rost);
+        System.out.println(imt);
     }
 
 
