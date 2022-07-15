@@ -7,6 +7,11 @@ public class Domashka_prodv {
 
 
 
+        a = 3;
+        int b = 5;
+        int x = (a+b)*(a+b);
+        System.out.println(x);
+
 
 
     }
