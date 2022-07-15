@@ -16,6 +16,12 @@ public class Domashka_baza {
         int ves = 64;
         float imt = ves / (rost*rost);
         System.out.println(imt);
+
+
+        char[] array = new char[]{'a','b','c','d','e'};
+        System.out.println(String.valueOf(array));
+        array[3] =  'h';
+        System.out.println(String.valueOf(array));
     }
 
 
